@@ -7,10 +7,11 @@
 
 | Field | Details |
 |---|---|
-| **Full Name** | [YOUR_FULL_NAME] |
-| **University Roll Number** | [YOUR_ROLL_NUMBER] |
-| **Section** | [YOUR_SECTION] |
-| **Branch** | [YOUR_BRANCH] (e.g., Computer Science / AIML) |
+| **Full Name** | Abhishek Kumar |
+| **University Roll Number** | 202401100300007 |
+| **Section** | A |
+| **Branch** | CSE-AI |
+| **College** | KIET Deemed to be University |
 | **GitHub Username** | abhiishek892 |
 | **Docker Hub Username** | abhiishek89 |
 
@@ -30,8 +31,8 @@
 
 | Component | Published Image Reference | Docker Hub URL |
 |---|---|---|
-| **Frontend** | `abhiishek89/taskflow-frontend:latest`<br>`abhiishek89/frontend:latest` | `https://hub.docker.com/r/abhiishek89/taskflow-frontend` |
-| **Backend** | `abhiishek89/taskflow-backend:latest`<br>`abhiishek89/backend:latest` | `https://hub.docker.com/r/abhiishek89/taskflow-backend` |
+| **Frontend** | `abhiishek89/mse-2-ssed-morning-frontend:latest`<br>`abhiishek89/taskflow-frontend:latest` | `https://hub.docker.com/r/abhiishek89/mse-2-ssed-morning-frontend` |
+| **Backend** | `abhiishek89/mse-2-ssed-morning-backend:latest`<br>`abhiishek89/taskflow-backend:latest` | `https://hub.docker.com/r/abhiishek89/mse-2-ssed-morning-backend` |
 
 ---
 
@@ -163,5 +164,6 @@ Tests:       12 passed, 12 total
 
 "I hereby declare that the submitted Docker implementation is my own work. I have successfully executed and verified the required CI/CD pipeline stages, published the Docker images to my Docker Hub account, and tested the application deployment."
 
-- **Student Signature / Name:** [YOUR_FULL_NAME]
-- **Date:** [DATE]
+- **Student Name:** Abhishek Kumar
+- **Date:** 18/11/2026
+- **College:** KIET Deemed to be University
