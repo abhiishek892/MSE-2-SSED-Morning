@@ -5,12 +5,12 @@
 - **Section:** [YOUR_SECTION]
 - **Branch:** [YOUR_BRANCH]
 - **GitHub Username:** abhiishek892
-- **Docker Hub Username:** [YOUR_DOCKERHUB_USERNAME]
+- **Docker Hub Username:** abhiishek89
 
 ## Docker Hub Images
 
-- **Frontend Image:** `YOUR_DOCKERHUB_USERNAME/taskflow-frontend:latest` (also tagged `YOUR_DOCKERHUB_USERNAME/frontend:latest`)
-- **Backend Image:** `YOUR_DOCKERHUB_USERNAME/taskflow-backend:latest` (also tagged `YOUR_DOCKERHUB_USERNAME/backend:latest`)
+- **Frontend Image:** `abhiishek89/taskflow-frontend:latest` (also tagged `abhiishek89/frontend:latest`)
+- **Backend Image:** `abhiishek89/taskflow-backend:latest` (also tagged `abhiishek89/backend:latest`)
 
 ## Application Deployment
 

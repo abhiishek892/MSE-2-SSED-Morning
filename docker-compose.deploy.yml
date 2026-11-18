@@ -37,7 +37,7 @@ services:
       - taskflow-network
 
   backend:
-    image: ${DOCKERHUB_USERNAME:-taskflow}/taskflow-backend:latest
+    image: ${DOCKERHUB_USERNAME:-abhiishek89}/taskflow-backend:latest
     container_name: taskflow-backend
     restart: unless-stopped
     ports:
@@ -62,7 +62,7 @@ services:
       - taskflow-network
 
   frontend:
-    image: ${DOCKERHUB_USERNAME:-taskflow}/taskflow-frontend:latest
+    image: ${DOCKERHUB_USERNAME:-abhiishek89}/taskflow-frontend:latest
     container_name: taskflow-frontend
     restart: unless-stopped
     ports:

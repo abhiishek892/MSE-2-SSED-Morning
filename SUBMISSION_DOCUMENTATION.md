@@ -12,14 +12,14 @@
 | **Section** | [YOUR_SECTION] |
 | **Branch** | [YOUR_BRANCH] (e.g., Computer Science / AIML) |
 | **GitHub Username** | abhiishek892 |
-| **Docker Hub Username** | [YOUR_DOCKERHUB_USERNAME] |
+| **Docker Hub Username** | abhiishek89 |
 
 ---
 
 ## 2. GitHub Submission Details
 
 - **Personal Fork Repository URL:** [https://github.com/abhiishek892/MSE-2-SSED-Morning](https://github.com/abhiishek892/MSE-2-SSED-Morning)
-- **Implementation Branch:** `docker-implementation`
+- **Implementation Branch:** `main`
 - **Original Starter Repository:** [https://github.com/atindeRR/MSE-2-SSED-Morning](https://github.com/atindeRR/MSE-2-SSED-Morning)
 
 > **Important Discrepancy Note:** The examination README mentions the instructor's base repository as `taskflow-docker`, whereas the provided upstream starter repository is `MSE-2-SSED-Morning`. Please select the appropriate base repository as instructed by your invigilator during PR creation.
@@ -30,8 +30,8 @@
 
 | Component | Published Image Reference | Docker Hub URL |
 |---|---|---|
-| **Frontend** | `YOUR_DOCKERHUB_USERNAME/taskflow-frontend:latest`<br>`YOUR_DOCKERHUB_USERNAME/frontend:latest` | `https://hub.docker.com/r/YOUR_DOCKERHUB_USERNAME/taskflow-frontend` |
-| **Backend** | `YOUR_DOCKERHUB_USERNAME/taskflow-backend:latest`<br>`YOUR_DOCKERHUB_USERNAME/backend:latest` | `https://hub.docker.com/r/YOUR_DOCKERHUB_USERNAME/taskflow-backend` |
+| **Frontend** | `abhiishek89/taskflow-frontend:latest`<br>`abhiishek89/frontend:latest` | `https://hub.docker.com/r/abhiishek89/taskflow-frontend` |
+| **Backend** | `abhiishek89/taskflow-backend:latest`<br>`abhiishek89/backend:latest` | `https://hub.docker.com/r/abhiishek89/taskflow-backend` |
 
 ---
 
