@@ -1,0 +1,11 @@
+{
+  "student_name": "YOUR_NAME",
+  "roll_number": "YOUR_ROLL_NUMBER",
+  "section": "YOUR_SECTION",
+  "branch": "YOUR_BRANCH",
+  "github_username": "abhiishek892",
+  "dockerhub_username": "YOUR_DOCKERHUB_USERNAME",
+  "repository": "https://github.com/abhiishek892/MSE-2-SSED-Morning",
+  "frontend_image": "YOUR_DOCKERHUB_USERNAME/taskflow-frontend:latest",
+  "backend_image": "YOUR_DOCKERHUB_USERNAME/taskflow-backend:latest"
+}
